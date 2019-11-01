@@ -1,2 +1,10 @@
-# testrepo
-test repo
+package com.sample.com.sample;
+
+public class App
+{
+   public static void main(String[] args)
+     {
+       System.out.println("Hello World");
+     }
+
+}
