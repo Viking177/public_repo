@@ -1,2 +1,2 @@
 # testrepo
-test repo updated 1
+test repo updated 2
