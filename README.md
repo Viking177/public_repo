@@ -1,2 +1,2 @@
 # testrepo
-test repo updated 5
+test repo updated 6
